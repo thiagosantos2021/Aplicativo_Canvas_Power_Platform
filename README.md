@@ -1,0 +1,1 @@
+# Aplicativo_Canvas_Power_Platform
